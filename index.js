@@ -1,5 +1,6 @@
 // My first JS code
 function addnumber(a,b){
-    var d= a+b
-    return d
+    var c = a+b
+    return c
 }
+
